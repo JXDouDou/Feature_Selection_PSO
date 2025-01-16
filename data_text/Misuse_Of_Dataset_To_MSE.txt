@@ -1,0 +1,348 @@
+Running PSO for n = 1...
+Best features for n = 1: ['Feature1']
+Best MSE for n = 1: 0.22986588860089568
+Time taken for n = 1: 12.211267 seconds
+
+
+Running PSO for n = 2...
+Best features for n = 2: ['Feature1', 'Feature3']
+Best MSE for n = 2: 0.16234741798618638
+Time taken for n = 2: 12.492157 seconds
+
+
+Running PSO for n = 3...
+Best features for n = 3: ['Feature1', 'Feature2', 'Feature3']
+Best MSE for n = 3: 0.14587048745668602
+Time taken for n = 3: 9.689985 seconds
+
+
+Running PSO for n = 4...
+Best features for n = 4: ['Feature1', 'Feature3', 'Feature4', 'Feature40']
+Best MSE for n = 4: 0.14001320781834103
+Time taken for n = 4: 14.435658 seconds
+
+
+Running PSO for n = 5...
+Best features for n = 5: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature30']
+Best MSE for n = 5: 0.13243631215629914
+Time taken for n = 5: 18.761156 seconds
+
+
+Running PSO for n = 6...
+Best features for n = 6: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature27', 'Feature44']
+Best MSE for n = 6: 0.1304808691294062
+Time taken for n = 6: 19.501624 seconds
+
+
+Running PSO for n = 7...
+Best features for n = 7: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature11', 'Feature17', 'Feature27']
+Best MSE for n = 7: 0.127363635425099
+Time taken for n = 7: 15.323038 seconds
+
+
+Running PSO for n = 8...
+Best features for n = 8: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature17', 'Feature27', 'Feature32', 'Feature49']
+Best MSE for n = 8: 0.12636567823989706
+Time taken for n = 8: 14.863065 seconds
+
+
+Running PSO for n = 9...
+Best features for n = 9: ['Feature1', 'Feature3', 'Feature4', 'Feature16', 'Feature17', 'Feature23', 'Feature27', 'Feature40', 'Feature49']
+Best MSE for n = 9: 0.12430972086180517
+Time taken for n = 9: 17.249413 seconds
+
+
+Running PSO for n = 10...
+Best features for n = 10: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature11', 'Feature17', 'Feature30', 'Feature31', 'Feature40', 'Feature49']
+Best MSE for n = 10: 0.1221415056388251
+Time taken for n = 10: 23.214448 seconds
+
+
+Running PSO for n = 11...
+Best features for n = 11: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature10', 'Feature15', 'Feature17', 'Feature35', 'Feature37', 'Feature40', 'Feature49']
+Best MSE for n = 11: 0.11792852793787564
+Time taken for n = 11: 31.725590 seconds
+
+
+Running PSO for n = 12...
+Best features for n = 12: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature10', 'Feature15', 'Feature16', 'Feature17', 'Feature37', 'Feature40', 'Feature45', 'Feature49']
+Best MSE for n = 12: 0.11847959971172788
+Time taken for n = 12: 33.199888 seconds
+
+
+Running PSO for n = 13...
+Best features for n = 13: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature13', 'Feature15', 'Feature16', 'Feature17', 'Feature19', 'Feature20', 'Feature30', 'Feature40', 'Feature49']
+Best MSE for n = 13: 0.11419524792143362
+Time taken for n = 13: 37.049789 seconds
+
+
+Running PSO for n = 14...
+Best features for n = 14: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature13', 'Feature15', 'Feature17', 'Feature28', 'Feature31', 'Feature35', 'Feature40', 'Feature46', 'Feature49', 'Feature50']
+Best MSE for n = 14: 0.11601369191287975
+Time taken for n = 14: 34.993683 seconds
+
+
+Running PSO for n = 15...
+Best features for n = 15: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature19', 'Feature27', 'Feature35', 'Feature38', 'Feature40', 'Feature47', 'Feature49']
+Best MSE for n = 15: 0.11355460814314439
+Time taken for n = 15: 37.432505 seconds
+
+
+Running PSO for n = 16...
+Best features for n = 16: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature12', 'Feature15', 'Feature16', 'Feature17', 'Feature21', 'Feature27', 'Feature28', 'Feature30', 'Feature31', 'Feature40', 'Feature48', 'Feature49']
+Best MSE for n = 16: 0.11266393721569824
+Time taken for n = 16: 40.265379 seconds
+
+
+Running PSO for n = 17...
+Best features for n = 17: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature6', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature19', 'Feature30', 'Feature35', 'Feature37', 'Feature39', 'Feature40', 'Feature49']
+Best MSE for n = 17: 0.11161293288661074
+Time taken for n = 17: 42.694731 seconds
+
+
+Running PSO for n = 18...
+Best features for n = 18: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature5', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature27', 'Feature30', 'Feature31', 'Feature38', 'Feature40', 'Feature47', 'Feature49']
+Best MSE for n = 18: 0.1124525790082132
+Time taken for n = 18: 46.699864 seconds
+
+
+Running PSO for n = 19...
+Best features for n = 19: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature9', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature17', 'Feature27', 'Feature30', 'Feature31', 'Feature35', 'Feature36', 'Feature37', 'Feature40', 'Feature49']
+Best MSE for n = 19: 0.11049143724618024
+Time taken for n = 19: 53.412237 seconds
+
+
+Running PSO for n = 20...
+Best features for n = 20: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature10', 'Feature13', 'Feature14', 'Feature15', 'Feature17', 'Feature19', 'Feature27', 'Feature30', 'Feature31', 'Feature37', 'Feature38', 'Feature40', 'Feature42', 'Feature43', 'Feature49', 'Feature50']
+Best MSE for n = 20: 0.10918110645231595
+Time taken for n = 20: 53.825031 seconds
+
+
+Running PSO for n = 21...
+Best features for n = 21: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature7', 'Feature11', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature19', 'Feature21', 'Feature26', 'Feature27', 'Feature30', 'Feature37', 'Feature40', 'Feature42', 'Feature49', 'Feature50']
+Best MSE for n = 21: 0.10897683997769546
+Time taken for n = 21: 54.524006 seconds
+
+
+Running PSO for n = 22...
+Best features for n = 22: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature19', 'Feature24', 'Feature27', 'Feature29', 'Feature30', 'Feature31', 'Feature35', 'Feature37', 'Feature40', 'Feature42', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 22: 0.10838203272007259
+Time taken for n = 22: 59.505172 seconds
+
+
+Running PSO for n = 23...
+Best features for n = 23: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature7', 'Feature8', 'Feature10', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature19', 'Feature27', 'Feature30', 'Feature31', 'Feature37', 'Feature39', 'Feature40', 'Feature42', 'Feature43', 'Feature49', 'Feature50']
+Best MSE for n = 23: 0.10828220623477908
+Time taken for n = 23: 65.459793 seconds
+
+
+Running PSO for n = 24...
+Best features for n = 24: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature11', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature27', 'Feature29', 'Feature30', 'Feature31', 'Feature37', 'Feature39', 'Feature40', 'Feature42', 'Feature43', 'Feature44', 'Feature49', 'Feature50']
+Best MSE for n = 24: 0.10827946560149312
+Time taken for n = 24: 124.368159 seconds
+
+
+Running PSO for n = 25...
+Best features for n = 25: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature19', 'Feature21', 'Feature26', 'Feature27', 'Feature28', 'Feature30', 'Feature31', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature42', 'Feature43', 'Feature47', 'Feature49', 'Feature50']
+Best MSE for n = 25: 0.10822457497870658
+Time taken for n = 25: 109.838880 seconds
+
+
+Running PSO for n = 26...
+Best features for n = 26: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature10', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature23', 'Feature24', 'Feature27', 'Feature29', 'Feature30', 'Feature37', 'Feature38', 'Feature40', 'Feature42', 'Feature43', 'Feature46', 'Feature49', 'Feature50']    
+Best MSE for n = 26: 0.1081783491867921
+Time taken for n = 26: 128.561377 seconds
+
+
+Running PSO for n = 27...
+Best features for n = 27: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature23', 'Feature27', 'Feature30', 'Feature31', 'Feature32', 'Feature35', 'Feature37', 'Feature38', 'Feature40', 'Feature42', 'Feature46', 'Feature49', 'Feature50']
+Best MSE for n = 27: 0.10805604822244523
+Time taken for n = 27: 138.378011 seconds
+
+
+Running PSO for n = 28...
+Best features for n = 28: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature6', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature25', 'Feature27', 'Feature29', 'Feature30', 'Feature31', 'Feature35', 'Feature37', 'Feature39', 'Feature40', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature49', 'Feature50']
+Best MSE for n = 28: 0.1079293939052727
+Time taken for n = 28: 159.022360 seconds
+
+
+Running PSO for n = 29...
+Best features for n = 29: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature8', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature25', 'Feature27', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature42', 'Feature45', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 29: 0.10782294787917443
+Time taken for n = 29: 147.086843 seconds
+
+
+Running PSO for n = 30...
+Best features for n = 30: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature22', 'Feature26', 'Feature27', 'Feature30', 'Feature32', 'Feature33', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature46', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 30: 0.10769710168930487
+Time taken for n = 30: 155.162463 seconds
+
+
+Running PSO for n = 31...
+Best features for n = 31: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature7', 'Feature10', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature27', 'Feature28', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature43', 'Feature46', 'Feature49', 'Feature50']
+Best MSE for n = 31: 0.10771822330252111
+Time taken for n = 31: 157.762125 seconds
+
+
+Running PSO for n = 32...
+Best features for n = 32: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature8', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature27', 'Feature30', 'Feature31', 'Feature32', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature39', 'Feature40', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 32: 0.10763903447680567
+Time taken for n = 32: 158.702261 seconds
+
+
+Running PSO for n = 33...
+Best features for n = 33: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature5', 'Feature7', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature25', 'Feature27', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature42', 'Feature43', 'Feature46', 'Feature49', 'Feature50']
+Best MSE for n = 33: 0.1075598402023294
+Time taken for n = 33: 159.118372 seconds
+
+
+Running PSO for n = 34...
+Best features for n = 34: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature7', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature26', 'Feature27', 'Feature29', 'Feature30', 'Feature32', 'Feature33', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 34: 0.10752860571845099
+Time taken for n = 34: 195.509491 seconds
+
+
+Running PSO for n = 35...
+Best features for n = 35: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature7', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature25', 'Feature27', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 35: 0.10734559243290491
+Time taken for n = 35: 5274.224192 seconds
+
+
+Running PSO for n = 36...
+Best features for n = 36: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature5', 'Feature9', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature21', 'Feature24', 'Feature27', 'Feature28', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature46', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 36: 0.10740496043137314
+Time taken for n = 36: 138.467185 seconds
+
+
+Running PSO for n = 37...
+Best features for n = 37: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature5', 'Feature6', 'Feature7', 'Feature8', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature23', 'Feature27', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature46', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 37: 0.10736024082849842
+Time taken for n = 37: 161.181994 seconds
+
+
+Running PSO for n = 38...
+Best features for n = 38: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature6', 'Feature7', 'Feature9', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature24', 'Feature25', 'Feature27', 'Feature28', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature42', 'Feature43', 'Feature46', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 38: 0.10736133699485587
+Time taken for n = 38: 186.810719 seconds
+
+
+Running PSO for n = 39...
+Best features for n = 39: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature5', 'Feature6', 'Feature7', 'Feature8', 'Feature9', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature21', 'Feature27', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature44', 'Feature45', 'Feature46', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 39: 0.1073135550536618
+Time taken for n = 39: 204.862898 seconds
+
+
+Running PSO for n = 40...
+Best features for n = 40: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature7', 'Feature9', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature23', 'Feature27', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature44', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']      
+Best MSE for n = 40: 0.1072393290269925
+Time taken for n = 40: 244.256678 seconds
+
+
+Running PSO for n = 41...
+Best features for n = 41: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature5', 'Feature6', 'Feature7', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature23', 'Feature26', 'Feature27', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 41: 0.10723414890112003
+Time taken for n = 41: 245.311970 seconds
+
+
+Running PSO for n = 42...
+Best features for n = 42: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature7', 'Feature9', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature23', 'Feature25', 'Feature26', 'Feature27', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 42: 0.10720716128468097
+Time taken for n = 42: 218.376336 seconds
+
+
+Running PSO for n = 43...
+Best features for n = 43: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature5', 'Feature6', 'Feature7', 'Feature9', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature23', 'Feature25', 'Feature27', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 43: 0.10719061837427893
+Time taken for n = 43: 206.931849 seconds
+
+
+Running PSO for n = 44...
+Best features for n = 44: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature6', 'Feature7', 'Feature8', 'Feature9', 'Feature10', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature22', 'Feature23', 'Feature27', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 44: 0.10718707852798977
+Time taken for n = 44: 212.659826 seconds
+
+
+Running PSO for n = 45...
+Best features for n = 45: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature6', 'Feature7', 'Feature9', 'Feature10', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature23', 'Feature24', 'Feature25', 'Feature26', 'Feature27', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 45: 0.10716950798844398
+Time taken for n = 45: 269.041396 seconds
+
+
+Running PSO for n = 46...
+Best features for n = 46: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature6', 'Feature7', 'Feature8', 'Feature9', 'Feature10', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature23', 'Feature24', 'Feature25', 'Feature26', 'Feature27', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 46: 0.10716350970856857
+Time taken for n = 46: 261.079418 seconds
+
+
+Running PSO for n = 47...
+Best features for n = 47: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature6', 'Feature7', 'Feature8', 'Feature9', 'Feature10', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature22', 'Feature23', 'Feature24', 'Feature25', 'Feature26', 'Feature27', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 47: 0.1071585400031409
+Time taken for n = 47: 236.225455 seconds
+
+
+Running PSO for n = 48...
+Best features for n = 48: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature6', 'Feature7', 'Feature8', 'Feature9', 'Feature10', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature22', 'Feature23', 'Feature24', 'Feature25', 'Feature26', 'Feature27', 'Feature28', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 48: 0.10715401916949256
+Time taken for n = 48: 262.271992 seconds
+
+
+Running PSO for n = 49...
+Best features for n = 49: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature5', 'Feature6', 'Feature7', 'Feature8', 'Feature9', 'Feature10', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature22', 'Feature23', 'Feature24', 'Feature25', 'Feature26', 'Feature27', 'Feature28', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 49: 0.10715292163434145
+Best MSE for n = 46: 0.10716350970856857
+Time taken for n = 46: 261.079418 seconds
+
+
+Running PSO for n = 47...
+Best features for n = 47: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature6', 'Feature7', 'Feature8', 'Feature9', 'Feature10', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature22', 'Feature23', 'Feature24', 'Feature25', 'Feature26', 'Feature27', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 47: 0.1071585400031409
+Time taken for n = 47: 236.225455 seconds
+
+
+Running PSO for n = 48...
+Best features for n = 48: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature6', 'Feature7', 'Feature8', 'Feature9', 'Feature10', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature22', 'Feature23', 'Feature24', 'Feature25', 'Feature26', 'Feature27', 'Feature28', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 48: 0.10715401916949256
+Time taken for n = 48: 262.271992 seconds
+
+
+Running PSO for n = 49...
+Best features for n = 49: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature5', 'Feature6', 'Feature7', 'Feature8', 'Feature9', 'Feature10', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature22', 'Feature23', 'Feature24', 'Feature25', 'Feature26', 'Feature27', 'Feature28', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 49: 0.10715292163434145
+Best features for n = 47: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature6', 'Feature7', 'Feature8', 'Feature9', 'Feature10', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature22', 'Feature23', 'Feature24', 'Feature25', 'Feature26', 'Feature27', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 47: 0.1071585400031409
+Time taken for n = 47: 236.225455 seconds
+
+
+Running PSO for n = 48...
+Best features for n = 48: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature6', 'Feature7', 'Feature8', 'Feature9', 'Feature10', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature22', 'Feature23', 'Feature24', 'Feature25', 'Feature26', 'Feature27', 'Feature28', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 48: 0.10715401916949256
+Time taken for n = 48: 262.271992 seconds
+
+
+Running PSO for n = 49...
+Best features for n = 49: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature5', 'Feature6', 'Feature7', 'Feature8', 'Feature9', 'Feature10', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature22', 'Feature23', 'Feature24', 'Feature25', 'Feature26', 'Feature27', 'Feature28', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 49: 0.10715292163434145
+e14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature22', 'Feature23', 'Feature24', 'Feature25', 'Feature26', 'Feature27', 'Feature28', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 48: 0.10715401916949256
+Time taken for n = 48: 262.271992 seconds
+
+
+Running PSO for n = 49...
+Best features for n = 49: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature5', 'Feature6', 'Feature7', 'Feature8', 'Feature9', 'Feature10', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature22', 'Feature23', 'Feature24', 'Feature25', 'Feature26', 'Feature27', 'Feature28', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 49: 0.10715292163434145
+27', 'Feature28', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 49: 0.10715292163434145
+Time taken for n = 49: 270.553836 seconds
+Time taken for n = 49: 270.553836 seconds
+
+
+Running PSO for n = 50...
+Best features for n = 50: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature5', 'Feature6', 'Feature7', 'Feature8', 'Feature9', 'Feature10', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature22', 'Feature23', 'Feature24', 'Feature25', 'Feature26', 'Feature27', 'Feature28', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature44', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Best MSE for n = 50: 0.10715289489805714
+Time taken for n = 50: 284.936562 seconds
+
+
+Overall best number of features: 50
+Final feature selected for n = 50: ['Feature1', 'Feature2', 'Feature3', 'Feature4', 'Feature5', 'Feature6', 'Feature7', 'Feature8', 'Feature9', 'Feature10', 'Feature11', 'Feature12', 'Feature13', 'Feature14', 'Feature15', 'Feature16', 'Feature17', 'Feature18', 'Feature19', 'Feature20', 'Feature21', 'Feature22', 'Feature23', 'Feature24', 'Feature25', 'Feature26', 'Feature27', 'Feature28', 'Feature29', 'Feature30', 'Feature31', 'Feature32', 'Feature33', 'Feature34', 'Feature35', 'Feature36', 'Feature37', 'Feature38', 'Feature39', 'Feature40', 'Feature41', 'Feature42', 'Feature43', 'Feature44', 'Feature45', 'Feature46', 'Feature47', 'Feature48', 'Feature49', 'Feature50']
+Final best MSE: 0.10715289489805714
+PS D:\Master_1\S_1\Computational Intellengience\PSO\Feature Selection Problem>
